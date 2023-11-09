@@ -2,7 +2,9 @@
 
 1. Introduction:
 Building health is a paramount concern for architects, building owners, and maintenance personnel alike. The integrity and safety of a structure are essential for the well-being of its occupants and the efficient operation of its systems. With the advancements in imaging technology, thermal imaging has emerged as a key tool for assessing and monitoring building health. This project aims to analyze and classify thermal images of buildings to determine their health status.
+
 `this Project for Jeddah university'
+
 `Note The project is not finished`
 
 ![__results___1_4](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/54027ae1-b233-4f7c-b6fe-ea4a0916bc9d)
