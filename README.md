@@ -8,7 +8,8 @@ Building health is a paramount concern for architects, building owners, and main
 ![__results___1_4](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/54027ae1-b233-4f7c-b6fe-ea4a0916bc9d)
 
 ![__results___1_0](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/0742c66c-1929-4d1c-89bf-c247959167a1)
-![__results___1_0](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/19265cbf-ffa4-444d-a204-03a09b531ab3)
+![__results___1_2](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/08c2816d-6336-4cae-922e-ab0501b94221)
+
 ![labels](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/d380557c-57b8-49a8-bdb1-62883d79dc62)
 ![labels_correlogram](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/19d29f6d-ee31-4db1-9a81-c71b7a0d9496)
 
