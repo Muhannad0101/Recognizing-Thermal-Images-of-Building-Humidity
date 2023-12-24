@@ -5,7 +5,6 @@ Building health is a paramount concern for architects, building owners, and main
 
 `this Project for Jeddah university`
 
-`Note The project is not finished`
 
 ![__results___1_4](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/54027ae1-b233-4f7c-b6fe-ea4a0916bc9d)
 
