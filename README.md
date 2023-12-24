@@ -12,10 +12,11 @@ Building health is a paramount concern for architects, building owners, and main
 ![__results___1_2](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/08c2816d-6336-4cae-922e-ab0501b94221)
 
 ![labels](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/d380557c-57b8-49a8-bdb1-62883d79dc62)
-![labels_correlogram](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/19d29f6d-ee31-4db1-9a81-c71b7a0d9496)
 
+![results](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/c9f06d5b-ce05-49fd-9ba1-df52e94c7157)
 
-3. Background:
+3. Background:![confusion_matrix](https://github.com/Muhannad0101/Recognizing-Thermal-Images-of-Building-Humidity/assets/102443619/91a5a901-37f4-4ae7-b19f-f54ecd0fdab8)
+
 Thermal imaging, also known as thermography, captures the infrared radiation emitted by objects. Different temperatures and materials emit specific infrared radiation patterns. In the context of buildings, these patterns can reveal critical information about insulation, water leaks, structural weaknesses, and more.
 
 4. Objective:
